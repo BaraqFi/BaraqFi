@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BaraqFi
-- 👀 I’m interested in WebDev and Software Engineering/Blockchain Development
-- 🌱 I’m currently learning Sofware Engineering under the Alx Programme
+- 👋 Hi, I’m Mo
+- 👀 I’m interested in WebDev, Software Engineering and Blockchain Development
 - 💞️ I’m looking to collaborate on interesting projects in the future
 - 📫 How to reach me ...: mail to Mbarrack01@gmail.com
 
