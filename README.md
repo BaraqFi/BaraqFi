@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mo
+- 👋 Hi, I’m Baraq
 - 👀 I’m interested in WebDev, Software Engineering and Blockchain Development
 - 💞️ I’m looking to collaborate on interesting projects in the future
 - 📫 How to reach me ...: mail to Mbarrack01@gmail.com
